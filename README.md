@@ -1,1 +1,1 @@
-# mock-ehr-sql
+# Creating an EHR database
